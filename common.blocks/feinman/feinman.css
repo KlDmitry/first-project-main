@@ -1,0 +1,7 @@
+.feinman {
+  height: 890px;
+  position: relative;
+  background: #F2F2F2 url(/common.blocks/images/feinman.png) no-repeat bottom left;
+  font-size: 36px;
+  background-size: 867px 637px;
+}
